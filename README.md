@@ -1,7 +1,7 @@
 # Deep Learning for Image Clustering and Bias Analysis
 
 **Course:** Data Analytics for Business (2024/2025)  
-**Authors:** Matteo Mastroianni, Matteo Cantafio, Alessia Froio, Giuseppe Rizzo
+**Authors:** Matteo Cantafio, Giuseppe Rizzo, Matteo Mastroianni, Alessia Froio 
 
 
 *t-SNE visualization of clusters based on semantically-rich features, achieving a Silhouette Score of 0.72.*
